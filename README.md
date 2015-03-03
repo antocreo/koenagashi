@@ -1,11 +1,9 @@
-# koenagashi
-http://koenagashi.tumblr.com/
 
- KOENAGASHI
- by Anto+Creo
- Antonio Daniele
- MFA Computational Arts - 2015
- http://koenagashi.tumblr.com/
+### KOENAGASHI
+###### by Anto+Creo
+Antonio Daniele
+<br>MFA Computational Arts - 2015
+ <br>http://koenagashi.tumblr.com/
  
  -----------------------------------------
  
@@ -38,7 +36,7 @@ http://koenagashi.tumblr.com/
  
  -----------------------------------------
  
- *Interactivity Design/Scenario
+ * Interactivity Design/Scenario
  The system translates the voice into a paint on water using a traditioanl japanese technique called Suminagashi (litterally floating ink).
  The process is the following:
  The user should swipe his finger on the touch sensor to activate the mic and the whole system.
@@ -58,7 +56,7 @@ http://koenagashi.tumblr.com/
  
  -----------------------------------------
  
- *Notes and Testing
+ * Notes and Testing
  The system works nicely and there are no bugs.
  It has been pretty hard to match everything together.
  Some problem I encountered during the coding:
@@ -73,7 +71,7 @@ http://koenagashi.tumblr.com/
  
  -----------------------------------------
  
- *Bugs
+ * Bugs
  None
  
  
