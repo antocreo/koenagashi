@@ -1,7 +1,6 @@
 # koenagashi
 http://koenagashi.tumblr.com/
 
-/*
  KOENAGASHI
  by Anto+Creo
  Antonio Daniele
@@ -78,5 +77,4 @@ http://koenagashi.tumblr.com/
  None
  
  
- 
- */
+
