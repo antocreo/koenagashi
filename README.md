@@ -14,26 +14,26 @@ Antonio Daniele
  
  -----------------------------------------
  
- * #### Analysis
+ #### Analysis
  To make this I will need the following:
- Hardware list 
- 1 Arduino 1 board
- 1 Raspberry Pi
- 2 servo motors
- 1 touch sensor
- 1 push button
- 1 voice sensor
+ ###### Hardware list 
+ * 1 Arduino 1 board
+ * 1 Raspberry Pi
+ * 2 servo motors
+ * 1 touch sensor
+ * 1 push button
+ * 1 voice sensor
  
- 15 wires
- 1 USB power supply 5v
- 1 USB cable (to connect Arduino and RPi)
- 1 webcam
+ * 15 wires
+ * 1 USB power supply 5v
+ * 1 USB cable (to connect Arduino and RPi)
+ * 1 webcam
  
- Software
- Arduino IDE
- Openframeworks (please see documentation online for this section - http://koenagashi.tumblr.com/)
+ ###### Software
+ * Arduino IDE
+ * Openframeworks (please see documentation online for this section - http://koenagashi.tumblr.com/)
  
- Housing
+ ###### Housing
  Please see the documentation online - http://koenagashi.tumblr.com/
  
  -----------------------------------------
