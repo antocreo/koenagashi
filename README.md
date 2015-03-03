@@ -7,12 +7,12 @@ Antonio Daniele
  
  -----------------------------------------
  
- * Requirements
+ * #### Requirements
  The requirements for this task is using at least two INPUTS in any combination: two digital, two analogue, or one of each and at least one OUTPUT such as: an actuator of any type OR an on-screen display.
  
  -----------------------------------------
  
- * Analysis
+ * #### Analysis
  To make this I will need the following:
  Hardware list 
  1 Arduino 1 board
@@ -36,7 +36,7 @@ Antonio Daniele
  
  -----------------------------------------
  
- * Interactivity Design/Scenario
+ * #### Interactivity Design/Scenario
  The system translates the voice into a paint on water using a traditioanl japanese technique called Suminagashi (litterally floating ink).
  The process is the following:
  The user should swipe his finger on the touch sensor to activate the mic and the whole system.
@@ -52,11 +52,9 @@ Antonio Daniele
  THere is also a function to send a serial communication to Raspberry Pi. 
  This will tell to Openframeworks to shoot a picture and to post it on my Twitter profile.
  
- 
- 
  -----------------------------------------
  
- * Notes and Testing
+ * #### Notes and Testing
  The system works nicely and there are no bugs.
  It has been pretty hard to match everything together.
  Some problem I encountered during the coding:
@@ -71,7 +69,7 @@ Antonio Daniele
  
  -----------------------------------------
  
- * Bugs
+ * #### Bugs
  None
  
  
